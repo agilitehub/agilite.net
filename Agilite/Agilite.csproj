@@ -4,7 +4,7 @@
     <TargetFrameworks>netstandard2.0;net40;net45;net451;net452;net46;net462;net471;net461;net47;net48;net472;netcoreapp1.0;netcoreapp1.1;netcoreapp2.0;netcoreapp2.1;netcoreapp2.2</TargetFrameworks>
     <RootNamespace>Agilite</RootNamespace>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <Authors>Johan Meyer</Authors>
+    <Authors>Agilit-e</Authors>
     <Company>Agilit-e</Company>
     <Product>Agilit-e</Product>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
